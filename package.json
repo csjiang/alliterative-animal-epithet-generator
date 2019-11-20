@@ -1,0 +1,28 @@
+{
+  "name": "alliterative-animal-epithet-generator",
+  "version": "0.1.0",
+  "description": "An API that returns alliterative animal epithets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csjiang/alliterative-animal-epithet-generator.git"
+  },
+  "keywords": [
+    "alliteration",
+    "animal",
+    "epithet",
+    "name",
+    "generator",
+    "api"
+  ],
+  "author": "Christine Jiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csjiang/alliterative-animal-epithet-generator/issues"
+  },
+  "homepage": "https://github.com/csjiang/alliterative-animal-epithet-generator#readme"
+}
